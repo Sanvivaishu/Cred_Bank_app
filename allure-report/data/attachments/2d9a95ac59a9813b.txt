@@ -1,0 +1,10 @@
+INFO     Test_UserProfile:test_UserProfile.py:73 Testcase test_Login_003 is started
+INFO     Test_UserProfile:test_UserProfile.py:75 Opening browser
+INFO     Test_UserProfile:test_UserProfile.py:77 Click on Login link
+INFO     Test_UserProfile:test_UserProfile.py:79 Entering the username
+INFO     Test_UserProfile:test_UserProfile.py:81 Entering the password
+INFO     Test_UserProfile:test_UserProfile.py:83 Click on login button
+INFO     Test_UserProfile:test_UserProfile.py:85 Checking the page title
+INFO     Test_UserProfile:test_UserProfile.py:87 Testcase test_Login_003 is passed
+INFO     Test_UserProfile:test_UserProfile.py:88 Taking screenshot
+INFO     Test_UserProfile:test_UserProfile.py:90 Testcase test_Login_003 is completed

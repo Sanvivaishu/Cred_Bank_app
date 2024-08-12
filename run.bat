@@ -1,0 +1,1 @@
+pytest -v -n=3 --html=HTMLReports/myhtmlreport.html --alluredir="AllureReports"

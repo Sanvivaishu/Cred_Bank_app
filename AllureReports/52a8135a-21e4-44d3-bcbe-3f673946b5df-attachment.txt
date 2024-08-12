@@ -1,0 +1,11 @@
+INFO     Test_UserProfile:test_UserProfile.py:42 Testcase test_Signup_002 is started
+INFO     Test_UserProfile:test_UserProfile.py:44 Opening browser
+INFO     Test_UserProfile:test_UserProfile.py:47 Userz5AVnc
+INFO     Test_UserProfile:test_UserProfile.py:49 Entering the Password
+INFO     Test_UserProfile:test_UserProfile.py:51 UserGHQ8Px@gmail.com
+INFO     Test_UserProfile:test_UserProfile.py:53 9059464561
+INFO     Test_UserProfile:test_UserProfile.py:55 Click on Create user button
+INFO     Test_UserProfile:test_UserProfile.py:57 Checking user creation
+INFO     Test_UserProfile:test_UserProfile.py:60 Testcase test_Signup_002 is passed
+INFO     Test_UserProfile:test_UserProfile.py:61 Taking screenshot
+INFO     Test_UserProfile:test_UserProfile.py:63 Testcase test_Signup_002 is completed
